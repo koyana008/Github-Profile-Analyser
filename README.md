@@ -1,0 +1,1 @@
+# GitHub Profile Analyzer API\n\nInstall: npm install\n\nCreate .env from .env.example\n\nRun: npm start\n\nEndpoints:\nPOST /api/github/analyze/:username\nGET /api/github/profiles\nGET /api/github/profile/:username
